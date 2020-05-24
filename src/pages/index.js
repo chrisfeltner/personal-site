@@ -19,7 +19,7 @@ export default () => {
             link
             image {
               childImageSharp {
-                fluid(maxWidth: 300) {
+                fluid(maxWidth: 500) {
                   ...GatsbyImageSharpFluid
                 }
               }
