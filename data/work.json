@@ -13,13 +13,13 @@
       "title": "Knight Hacks",
       "position": "President",
       "image": "../images/knightHacks.jpeg",
-      "description": "Planning hackathons, workshops, and promoting career advancement at UCF.",
+      "description": "Knight Hacks is UCF's software development club. We plan hackathons, workshops, and career development events to help students excel in their academics and careers. Join us as we build an inclusive computer science community at UCF.",
       "link": "https://www.knighthacks.org"
     },
     {
       "title": "UCF KDD Lab",
       "position": "Undergraduate Researcher",
-      "description": "Using data mining and machine learning to better understand urban spaces.",
+      "description": "Using data mining and machine learning to gain insight into COVID-19.",
       "link": "http://yanjiefu.com/group/index.html"
     }
   ],
@@ -31,7 +31,7 @@
       "endDate": "May 2020",
       "image": "../images/vucf.JPG",
       "link": "",
-      "description": "Led volunteer trips to Atlanta, GA and Sarapiqui, Costa Rica to educate UCF students about refugee resettlement, sustainability, and fair trade."
+      "description": "I led volunteer trips to Atlanta, GA and Sarapiquí, Costa Rica. I developed service learning opportunities to educate UCF students about homelessness, refugee resettlement, sustainability, and fair trade."
     },
     {
       "title": "JPMorgan Chase & Co.",
@@ -40,7 +40,7 @@
       "endDate": "August 2019",
       "image": "../images/JPMC.jpg",
       "link": "",
-      "description": "Built a webapp using React and Redux for margin call associates."
+      "description": "I built a webapp using React with Redux to ensure data quality for margin call calculations. It reduces a tedious two-hour manual process to ten minutes."
     },
     {
       "title": "UCF NSF REU in IoT",
@@ -49,7 +49,7 @@
       "endDate": "July 2018",
       "image": "../images/reu.JPG",
       "link": "http://iotreu.cs.ucf.edu/christopher-feltner/",
-      "description": "Developed a smart walker for the visually impaired and published a paper at IEEE ICC 2019."
+      "description": "I developed a smart walker for the visually impaired using Microsoft Kinect. We won first place undergraduate poster presentation at AAAS ERN 2019 and published in IEEE ICC 2019 in Shanghai."
     },
     {
       "title": "UCF/Lockheed Martin",
@@ -57,7 +57,7 @@
       "startDate": "May 2017",
       "endDate": "April 2018",
       "link": "",
-      "description": "Developed software for Apache Arrowhead."
+      "description": "Worked as part of the Apache Arrowhead team. I built a Qt application to aid engineers in testing."
     }
   ]
 }
