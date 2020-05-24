@@ -1,0 +1,63 @@
+{
+  "currentWork": [
+    {
+      "title": "Microsoft",
+      "position": "Software Engineering Intern",
+      "startDate": "May 2020",
+      "endDate": "Present",
+      "image": "../images/IMG_2691 2.JPG",
+      "link": "",
+      "description": "Working on the Azure Compute team to build the future of cloud computing!"
+    },
+    {
+      "title": "Knight Hacks",
+      "position": "President",
+      "image": "../images/knightHacks.jpeg",
+      "description": "Planning hackathons, workshops, and promoting career advancement at UCF.",
+      "link": "https://www.knighthacks.org"
+    },
+    {
+      "title": "UCF KDD Lab",
+      "position": "Undergraduate Researcher",
+      "description": "Using data mining and machine learning to better understand urban spaces.",
+      "link": "http://yanjiefu.com/group/index.html"
+    }
+  ],
+  "pastWork": [
+    {
+      "title": "Volunteer UCF Alternative Break Program",
+      "position": "Trip Leader",
+      "startDate": "May 2019",
+      "endDate": "May 2020",
+      "image": "../images/vucf.JPG",
+      "link": "",
+      "description": "Led volunteer trips to Atlanta, GA and Sarapiqui, Costa Rica to educate UCF students about refugee resettlement, sustainability, and fair trade."
+    },
+    {
+      "title": "JPMorgan Chase & Co.",
+      "position": "SWE Intern",
+      "startDate": "May 2019",
+      "endDate": "August 2019",
+      "image": "../images/JPMC.jpg",
+      "link": "",
+      "description": "Built a webapp using React and Redux for margin call associates."
+    },
+    {
+      "title": "UCF NSF REU in IoT",
+      "position": "Researcher",
+      "startDate": "May 2018",
+      "endDate": "July 2018",
+      "image": "../images/reu.JPG",
+      "link": "http://iotreu.cs.ucf.edu/christopher-feltner/",
+      "description": "Developed a smart walker for the visually impaired and published a paper at IEEE ICC 2019."
+    },
+    {
+      "title": "UCF/Lockheed Martin",
+      "position": "College Work Experience Program Student",
+      "startDate": "May 2017",
+      "endDate": "April 2018",
+      "link": "",
+      "description": "Developed software for Apache Arrowhead."
+    }
+  ]
+}
