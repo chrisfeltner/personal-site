@@ -15,12 +15,6 @@
       "image": "../images/knightHacks.jpeg",
       "description": "Knight Hacks is UCF's software development club. We plan hackathons, workshops, and career development events to help students excel in their academics and careers. Join us as we build an inclusive computer science community at UCF.",
       "link": "https://www.knighthacks.org"
-    },
-    {
-      "title": "UCF KDD Lab",
-      "position": "Undergraduate Researcher",
-      "description": "Using data mining and machine learning to gain insight into COVID-19.",
-      "link": "http://yanjiefu.com/group/index.html"
     }
   ],
   "pastWork": [
@@ -58,6 +52,12 @@
       "endDate": "April 2018",
       "link": "",
       "description": "Worked as part of the Apache Arrowhead team. I built a Qt application to aid engineers in testing."
+    },
+    {
+      "title": "UCF KDD Lab",
+      "position": "Undergraduate Researcher",
+      "description": "Using data mining and machine learning to gain insight into COVID-19.",
+      "link": "http://yanjiefu.com/group/index.html"
     }
   ]
 }
